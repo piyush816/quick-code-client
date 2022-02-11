@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=Righteous&display=swap");
+
+img {
+  user-select: none;
+  -webkit-user-drag: none;
+}
